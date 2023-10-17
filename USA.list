@@ -1,0 +1,23 @@
+# 内容：USA
+# 范例：
+# DOMAIN-SUFFIX,xxxx.com
+# DOMAIN-KEYWORD,xxxx
+
+# plex
+DOMAIN-SUFFIX,plex.tv
+DOMAIN-KEYWORD,plex
+
+# pluto
+DOMAIN-SUFFIX,pluto.tv
+DOMAIN-KEYWORD,pluto
+
+# xumo
+DOMAIN-SUFFIX,xumo.com
+DOMAIN-KEYWORD,xumo
+
+# tubi
+DOMAIN-SUFFIX,tubitv.com
+DOMAIN-SUFFIX,adrise.tv
+DOMAIN-SUFFIX,production-public.tubi.io
+DOMAIN-KEYWORD,tubi
+DOMAIN-KEYWORD,adrise
