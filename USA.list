@@ -17,7 +17,8 @@ DOMAIN-KEYWORD,xumo
 
 # tubi
 DOMAIN-SUFFIX,tubitv.com
+DOMAIN-SUFFIX,tubi.video
 DOMAIN-SUFFIX,adrise.tv
-DOMAIN-SUFFIX,production-public.tubi.io
+DOMAIN-SUFFIX,tubi.io
 DOMAIN-KEYWORD,tubi
 DOMAIN-KEYWORD,adrise
