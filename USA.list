@@ -9,10 +9,12 @@ DOMAIN-KEYWORD,plex
 
 # pluto
 DOMAIN-SUFFIX,pluto.tv
+DOMAIN-SUFFIX,plutotv.net
 DOMAIN-KEYWORD,pluto
 
 # xumo
 DOMAIN-SUFFIX,xumo.com
+DOMAIN-SUFFIX,fwmrm.net
 DOMAIN-KEYWORD,xumo
 
 # tubi
