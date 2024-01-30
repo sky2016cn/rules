@@ -8,23 +8,23 @@ DOMAIN-SUFFIX,plex.tv
 DOMAIN-KEYWORD,plex
 
 # pluto
-DOMAIN-SUFFIX,boot.pluto.tv
+DOMAIN,boot.pluto.tv
 DOMAIN-SUFFIX,sp.pluto.tv
 DOMAIN-SUFFIX,t.pluto.tv
-DOMAIN-SUFFIX,images.pluto.tv
-DOMAIN-SUFFIX,cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv
-DOMAIN-SUFFIX,service-concierge.clusters.pluto.tv
-DOMAIN-SUFFIX,siloh-ns1.plutotv.net
-DOMAIN-SUFFIX,infinity-c34.youboranqs01.com
-DOMAIN-SUFFIX,a-fds.youborafds01.com
-DOMAIN-SUFFIX,mobile-collector.newrelic.com
-DOMAIN-SUFFIX,inapps.appsflyer.com
-DOMAIN-SUFFIX,service-vod.clusters.pluto.tv
-DOMAIN-SUFFIX,skadsdkless.appsflyer.com
-DOMAIN-SUFFIX,gcdsdk.appsflyer.com
-DOMAIN-SUFFIX,service-watchlist-ga.prd.pluto.tv
-DOMAIN-SUFFIX,service-recommender.clusters.pluto.tv
-DOMAIN-SUFFIX,service-media-catalog.clusters.pluto.tv
+DOMAIN,images.pluto.tv
+DOMAIN,cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv
+DOMAIN,service-concierge.clusters.pluto.tv
+DOMAIN,siloh-ns1.plutotv.net
+DOMAIN,infinity-c34.youboranqs01.com
+DOMAIN,a-fds.youborafds01.com
+DOMAIN,mobile-collector.newrelic.com
+DOMAIN,inapps.appsflyer.com
+DOMAIN,service-vod.clusters.pluto.tv
+DOMAIN,skadsdkless.appsflyer.com
+DOMAIN,gcdsdk.appsflyer.com
+DOMAIN,service-watchlist-ga.prd.pluto.tv
+DOMAIN,service-recommender.clusters.pluto.tv
+DOMAIN,service-media-catalog.clusters.pluto.tv
 DOMAIN-KEYWORD,plutotv.net
 DOMAIN-KEYWORD,pluto.tv
 
