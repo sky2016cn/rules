@@ -23,8 +23,8 @@ DOMAIN,service-watchlist-ga.prd.pluto.tv
 DOMAIN,service-concierge.clusters.pluto.tv
 DOMAIN,service-recommender.clusters.pluto.tv
 DOMAIN,service-media-catalog.clusters.pluto.tv
-DOMAIN-KEYWORD,plutotv.net
-DOMAIN-KEYWORD,pluto.tv
+DOMAIN-KEYWORD,pluto
+DOMAIN-KEYWORD,plutotv
 
 # xumo
 DOMAIN-SUFFIX,xumo.com
