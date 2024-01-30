@@ -8,8 +8,9 @@ DOMAIN-SUFFIX,plex.tv
 DOMAIN-KEYWORD,plex
 
 # pluto
-DOMAIN-SUFFIX,pluto.tv
-DOMAIN-SUFFIX,plutotv.net
+DOMAIN-SUFFIX,sp.pluto.tv
+DOMAIN-SUFFIX,t.pluto.tv
+DOMAIN-KEYWORD,plutotv.net
 DOMAIN-KEYWORD,pluto
 
 # xumo
