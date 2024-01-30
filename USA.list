@@ -8,14 +8,16 @@ DOMAIN-SUFFIX,plex.tv
 DOMAIN-KEYWORD,plex
 
 # pluto
-DOMAIN,pluto.tv
-DOMAIN,plutotv.net
-DOMAIN,sp.pluto.tv
-DOMAIN,t.pluto.tv
+DOMAIN-SUFFIX,boot.pluto.tv
 DOMAIN,boot.pluto.tv
+DOMAIN-SUFFIX,sp.pluto.tv
+DOMAIN-SUFFIX,t.pluto.tv
+DOMAIN,images.pluto.tv
+DOMAIN,static-homepage-en.pluto.tv
 DOMAIN,cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv
 DOMAIN,service-concierge.clusters.pluto.tv
 DOMAIN,siloh-ns1.plutotv.net
+DOMAIN,infinity-c34.youboranqs01.com
 DOMAIN,a-fds.youborafds01.com
 DOMAIN,mobile-collector.newrelic.com
 DOMAIN,inapps.appsflyer.com
@@ -25,9 +27,6 @@ DOMAIN,gcdsdk.appsflyer.com
 DOMAIN,service-watchlist-ga.prd.pluto.tv
 DOMAIN,service-recommender.clusters.pluto.tv
 DOMAIN,service-media-catalog.clusters.pluto.tv
-DOMAIN-SUFFIX,pluto.tv
-DOMAIN-SUFFIX,plutotv.net
-DOMAIN-SUFFIX,static-homepage-en.pluto.tv
 DOMAIN-KEYWORD,plutotv.net
 DOMAIN-KEYWORD,pluto.tv
 
