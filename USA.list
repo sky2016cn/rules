@@ -8,9 +8,9 @@ DOMAIN-SUFFIX,plex.tv
 DOMAIN-KEYWORD,plex
 
 # pluto
-DOMAIN,sp.pluto.tv
-DOMAIN,t.pluto.tv
-DOMAIN,boot.pluto.tv
+DOMAIN-SUFFIX,boot.pluto.tv
+DOMAIN-SUFFIX,sp.pluto.tv
+DOMAIN-SUFFIX,t.pluto.tv
 DOMAIN,images.pluto.tv
 DOMAIN,static-homepage-en.pluto.tv
 DOMAIN,cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv
