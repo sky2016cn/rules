@@ -10,8 +10,19 @@ DOMAIN-KEYWORD,plex
 # plutoTV
 DOMAIN-SUFFIX,pluto.tv
 DOMAIN-SUFFIX,plutotv.net
-DOMAIN,pluto.tv
-DOMAIN,plutotv.net
+DOMAIN,sp.pluto.tv
+DOMAIN,t.pluto.tv
+DOMAIN,boot.pluto.tv
+DOMAIN,images.pluto.tv
+DOMAIN,cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv
+DOMAIN,siloh-ns1.plutotv.net
+DOMAIN,service-cookie-sync.clusters.pluto.tv
+DOMAIN,service-channels.clusters.pluto.tv
+DOMAIN,service-vod.clusters.pluto.tv
+DOMAIN,service-watchlist-ga.prd.pluto.tv
+DOMAIN,service-concierge.clusters.pluto.tv
+DOMAIN,service-recommender.clusters.pluto.tv
+DOMAIN,service-media-catalog.clusters.pluto.tv
 DOMAIN-KEYWORD,plutotv.net
 DOMAIN-KEYWORD,pluto.tv
 
