@@ -8,26 +8,8 @@ DOMAIN-SUFFIX,plex.tv
 DOMAIN-KEYWORD,plex
 
 # plutoTV
-DOMAIN-SUFFIX,plex.tv
-DOMAIN-KEYWORD,plex
 DOMAIN-SUFFIX,pluto.tv
-DOMAIN-SUFFIX,pluto.tv:443
 DOMAIN-SUFFIX,plutotv.net
-DOMAIN-SUFFIX,static-homepage-en.pluto.tv
-DOMAIN-SUFFIX,sp.pluto.tv
-DOMAIN,t.pluto.tv:443
-DOMAIN,boot.pluto.tv
-DOMAIN,images.pluto.tv
-DOMAIN,control.kochava.com
-DOMAIN,kvinit-prod.api.kochava.com
-DOMAIN,cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv
-DOMAIN,siloh-ns1.plutotv.net:443
-DOMAIN,service-channels.clusters.pluto.tv:443
-DOMAIN,service-vod.clusters.pluto.tv:443
-DOMAIN,service-watchlist-ga.prd.pluto.tv:443
-DOMAIN,service-concierge.clusters.pluto.tv:443
-DOMAIN,service-recommender.clusters.pluto.tv:443
-DOMAIN,service-media-catalog.clusters.pluto.tv:443
 DOMAIN-KEYWORD,pluto
 DOMAIN-KEYWORD,plutotv
 
