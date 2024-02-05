@@ -20,10 +20,17 @@ DOMAIN-KEYWORD,xumo
 
 # tubi
 DOMAIN-SUFFIX,tubi.tv
-DOMAIN-SUFFIX,tubi.io
 DOMAIN-SUFFIX,tubitv.com
 DOMAIN-SUFFIX,tubi.video
 DOMAIN-SUFFIX,adrise.tv
-DOMAIN-SUFFIX,production-public.tubi.io
-DOMAIN-KEYWORD,tubi
-DOMAIN-KEYWORD,adrise
+DOMAIN-SUFFIX,tubi.io
+DOMAIN-SUFFIX,braze.com
+DOMAIN,lishi.production-public.tubi.io
+DOMAIN,manifest.production-public.tubi.io
+DOMAIN,rainmaker.production-public.tubi.io
+DOMAIN,live-manifest.production-public.tubi.io
+DOMAIN,content.production-public.tubi.io
+DOMAIN,tensor.production-public.tubi.io
+DOMAIN,user-queue.production-public.tubi.io
+DOMAIN,account.production-public.tubi.io
+DOMAIN,ssl.gstatic.com
