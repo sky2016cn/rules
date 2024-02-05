@@ -34,3 +34,5 @@ DOMAIN,tensor.production-public.tubi.io
 DOMAIN,user-queue.production-public.tubi.io
 DOMAIN,account.production-public.tubi.io
 DOMAIN,ssl.gstatic.com
+DOMAIN-KEYWORD,tubi
+DOMAIN-KEYWORD,adrise
