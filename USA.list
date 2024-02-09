@@ -15,12 +15,16 @@ DOMAIN-KEYWORD,plutotv
 
 # xumo
 DOMAIN-SUFFIX,xumo.com
+DOMAIN-SUFFIX,fwmrm.net
+DOMAIN-KEYWORD,xumo
 
 # tubi
 DOMAIN-SUFFIX,tubitv.com
 DOMAIN-SUFFIX,tubi.video
 DOMAIN-SUFFIX,adrise.tv
 DOMAIN-SUFFIX,production-public.tubi.io
+DOMAIN-KEYWORD,tubi
+DOMAIN-KEYWORD,adrise
 
 # PBS 分流规则来自常用的第三方blackmatrix7
 DOMAIN-SUFFIX,pbs.org
