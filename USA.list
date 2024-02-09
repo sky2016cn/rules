@@ -22,5 +22,5 @@ DOMAIN-SUFFIX,tubi.video
 DOMAIN-SUFFIX,adrise.tv
 DOMAIN-SUFFIX,production-public.tubi.io
 
-# PBS 来自常用的第三方blackmatrix7
+# PBS 分流规则来自常用的第三方blackmatrix7
 DOMAIN-SUFFIX,pbs.org
