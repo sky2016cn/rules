@@ -5,6 +5,7 @@
 
 # plex
 DOMAIN-SUFFIX,plex.tv
+DOMAIN-KEYWORD,plex
 
 # plutoTV
 DOMAIN-SUFFIX,pluto.tv
