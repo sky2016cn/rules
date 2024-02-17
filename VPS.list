@@ -1,0 +1,5 @@
+# 内容：自建2台VPS直连
+
+- DOMAIN-SUFFIX,riches2023cn.xyz,DIRECT
+- IP-CIDR,74.48.94.141/32,DIRECT,no-resolve            
+- IP-CIDR,192.69.90.238/32,DIRECT,no-resolve
