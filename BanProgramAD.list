@@ -119,27 +119,6 @@ DOMAIN-SUFFIX,tyh.taobao.com
 DOMAIN-SUFFIX,userimg.qunar.com
 DOMAIN-SUFFIX,yiliao.hupan.com
 
-# Adobe
-DOMAIN-SUFFIX,3dns-2.adobe.com
-DOMAIN-SUFFIX,3dns-3.adobe.com
-DOMAIN-SUFFIX,activate-sea.adobe.com
-DOMAIN-SUFFIX,activate-sjc0.adobe.com
-DOMAIN-SUFFIX,activate.adobe.com
-DOMAIN-SUFFIX,adobe-dns-2.adobe.com
-DOMAIN-SUFFIX,adobe-dns-3.adobe.com
-DOMAIN-SUFFIX,adobe-dns.adobe.com
-DOMAIN-SUFFIX,ereg.adobe.com
-DOMAIN-SUFFIX,geo2.adobe.com
-DOMAIN-SUFFIX,hl2rcv.adobe.com
-DOMAIN-SUFFIX,hlrcv.stage.adobe.com
-DOMAIN-SUFFIX,lm.licenses.adobe.com
-DOMAIN-SUFFIX,lmlicenses.wip4.adobe.com
-DOMAIN-SUFFIX,na1r.services.adobe.com
-DOMAIN-SUFFIX,na2m-pr.licenses.adobe.com
-DOMAIN-SUFFIX,practivate.adobe.com
-DOMAIN-SUFFIX,wip3.adobe.com
-DOMAIN-SUFFIX,wwis-dubc1-vip60.adobe.com
-
 # AutoHome
 DOMAIN-SUFFIX,33.autohome.com.cn
 DOMAIN-SUFFIX,adproxy.autohome.com.cn
@@ -653,10 +632,6 @@ DOMAIN-SUFFIX,pv.sogou.com
 DOMAIN-SUFFIX,theta.sogou.com
 DOMAIN-SUFFIX,wan.sogou.com
 DOMAIN-SUFFIX,wangmeng.sogou.com
-
-# Teleplus
-DOMAIN-SUFFIX,applovin.com
-DOMAIN-SUFFIX,guangzhuiyuan.com
 
 # UC ali
 DOMAIN-SUFFIX,adslot.uc.cn
