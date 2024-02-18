@@ -1,0 +1,10 @@
+# 我的直连，包含国内和国外的域名
+# 微软，Apple国内官网和国内iCLoud不走代理
+
+# Apple
+DOMAIN-SUFFIX,apple.com.cn
+DOMAIN-SUFFIX,icloud.com.cn
+
+# Microsoft
+microsoft.com
+
