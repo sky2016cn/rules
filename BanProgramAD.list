@@ -140,9 +140,6 @@ DOMAIN-SUFFIX,practivate.adobe.com
 DOMAIN-SUFFIX,wip3.adobe.com
 DOMAIN-SUFFIX,wwis-dubc1-vip60.adobe.com
 
-# Apple
-DOMAIN-SUFFIX,adserver.unityads.unity3d.com
-
 # AutoHome
 DOMAIN-SUFFIX,33.autohome.com.cn
 DOMAIN-SUFFIX,adproxy.autohome.com.cn
