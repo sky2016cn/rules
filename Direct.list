@@ -1,5 +1,7 @@
 # 我的直连，包含国内和国外的域名
-# 微软，Apple国内官网和国内iCLoud不走代理
+# Apple国内官网和国内iCLoud直连
+# 微软官网直连
+# outlook邮箱直连
 
 # Apple
 DOMAIN-SUFFIX,apple.com.cn
@@ -8,3 +10,9 @@ DOMAIN-SUFFIX,icloud.com.cn
 # Microsoft
 microsoft.com
 
+# Mail
+DOMAIN,imap-mail.outlook.com
+DOMAIN,outlook.office365.com
+DOMAIN,smtp-mail.outlook.com
+DOMAIN,smtp.office365.com
+DOMAIN-SUFFIX,m.hotmail.com
