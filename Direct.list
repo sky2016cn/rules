@@ -3,6 +3,10 @@
 # 微软官网直连
 # outlook邮箱直连
 
+# Apple
+DOMAIN-SUFFIX,apple.com.cn
+DOMAIN-SUFFIX,icloud.com.cn
+
 # Microsoft
 microsoft.com
 
@@ -16,4 +20,3 @@ DOMAIN-SUFFIX,m.hotmail.com
 # 盘立方
 DOMAIN-SUFFIX,ejia7.net
 DOMAIN-SUFFIX,ejia7m.com
-
