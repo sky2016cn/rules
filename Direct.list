@@ -16,7 +16,3 @@ DOMAIN,outlook.office365.com
 DOMAIN,smtp-mail.outlook.com
 DOMAIN,smtp.office365.com
 DOMAIN-SUFFIX,m.hotmail.com
-
-# 盘立方
-DOMAIN-SUFFIX,ejia7.net
-DOMAIN-SUFFIX,ejia7m.com
