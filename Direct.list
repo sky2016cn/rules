@@ -17,7 +17,7 @@ DOMAIN,smtp-mail.outlook.com
 DOMAIN,smtp.office365.com
 DOMAIN-SUFFIX,m.hotmail.com
 
-# 阿里云服务商IP端
-IP-CIDR,8.130.0.0/15,no-resolve
-IP-CIDR,8.130.0.0/16,no-resolve
+# 盘立方
+DOMAIN-SUFFIX,ejia7.net
+DOMAIN-SUFFIX,ejia7m.com
 
