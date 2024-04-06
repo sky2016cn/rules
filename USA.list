@@ -3,6 +3,9 @@
 # DOMAIN-SUFFIX,xxxx.com
 # DOMAIN-KEYWORD,xxxx
 
+# Free TV 来自 Google TV 美国版
+DOMAIN,dai.google.com
+
 # plex
 DOMAIN-SUFFIX,plex.tv
 DOMAIN-KEYWORD,plex
